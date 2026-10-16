@@ -1,0 +1,12 @@
+docs/
+_book/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
+
+_previous/

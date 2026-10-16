@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - scripts/local-toc.js
+
+book:
+  title: "Using AI for Coding"
+  author: ""
+  chapters:
+    - index.md
+    - 01-what-ai-can-do.md
+    - 02-start-a-coding-conversation.md
+    - 03-parts-of-a-good-coding-prompt.md
+    - 04-give-ai-the-right-context.md
+    - 05-learn-coding-concepts.md
+    - 06-understand-existing-code.md
+    - 07-ask-ai-to-explain-changes.md
+    - 08-learn-from-errors.md
+    - 09-ask-ai-to-write-code.md
+    - 10-modify-existing-code.md
+    - 11-improve-code.md
+    - 12-find-and-fix-bugs.md
+    - 13-work-with-files-and-data.md
+    - 14-work-with-text.md
+    - 15-work-with-tables-and-data.md
+    - 16-create-reports-and-visualizations.md
+    - 17-check-whether-answer-is-correct.md
+    - 18-ask-for-tests-and-verification.md
+    - 19-compare-different-solutions.md
+    - 20-recover-from-bad-ai-answer.md
+    - 21-use-pi-for-coding-conversations.md
+    - 22-choose-the-right-model.md
+    - 23-work-with-large-files-and-long-conversations.md
+    - 24-ask-ai-to-use-tools-carefully.md
+    - 25-explain-and-learn-workflow.md
+    - 26-write-and-review-workflow.md
+    - 27-debugging-workflow.md
+    - 28-improve-and-simplify-workflow.md
+    - 29-data-task-workflow.md
+    - 30-build-personal-prompt-library.md
+    - 31-prompt-templates.md
+    - 32-prompt-improvement-checklist.md
+    - 33-common-prompt-problems.md
+    - 34-quick-reference-for-pi.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    include-after-body: includes/local-toc.html
+    number-sections: false
+    css: style.css
+    search: true
+    page-navigation: true
+    smooth-scroll: true
+    code-tools: false
+
+execute:
+  freeze: true
