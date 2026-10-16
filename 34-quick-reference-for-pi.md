@@ -88,3 +88,7 @@ Pi does not require approval before every tool call. Its working folder is not a
 <li>Can I recover if the result is wrong or incomplete?</li>
 </ul>
 </div>
+
+## Version note
+
+This appendix describes Pi version **1.2.0**. Pi is used here as an example of an AI coding assistant. Capabilities, model availability, configuration, and keybindings can change between releases, so check the documentation installed with the version you are using.

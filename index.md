@@ -8,6 +8,11 @@ title: "Using AI for Coding"
 
 The book does not teach through code listings. Instead, it shows you how to describe a coding task, provide useful context, ask precise questions, and check the answer you receive. You can apply the prompts to your own language, editor, project, files, and level of experience.
 
+<div class="note-box">
+<p class="note-label">Pi is an example</p>
+<p>The Pi coding agent is used throughout this tutorial as one concrete example of an AI coding assistant. It is not a requirement: the prompts, checks, and habits apply to any AI coding tool. Wherever Pi appears, substitute the assistant you actually use.</p>
+</div>
+
 ## How to use the book
 
 Each chapter introduces one practical skill. Read the explanation, adapt the prompt examples, and complete the practice activity with a real or synthetic task. Do not paste private credentials, confidential data, or files that you are not authorized to share.

@@ -4,6 +4,8 @@ This repository contains the source for **Using AI for Coding**, a prompt-first 
 
 The book contains prompt examples and review guidance. It intentionally does not teach through code listings. Readers apply the prompts to their own code, files, and tasks.
 
+The Pi coding agent (version **1.2.0**) is used as one example of an AI coding assistant. It is not a requirement; the prompts and practices apply to any AI coding tool. The version is recorded in [`34-quick-reference-for-pi.md`](34-quick-reference-for-pi.md).
+
 ## Current status
 
 The complete draft contains 30 chapters and four reference appendices. Contents and drafting progress are listed in [`ROADMAP.md`](ROADMAP.md). Batch reviews are recorded under `editorial/reviews/`; they are separate editorial passes, not independent subagent reviews. The book is authored in Markdown and rendered by Quarto. GitHub Actions builds the static HTML book and GitHub Pages publishes the generated `docs/` directory.

@@ -13,6 +13,11 @@ By the end of this chapter, you will be able to:
 
 Pi can support coding work through conversation, model selection, and available tools. The exact capabilities depend on your installation and configuration. Check the documentation for your installed version rather than assuming every environment has the same features.
 
+<div class="note-box">
+<p class="note-label">Pi is an example</p>
+<p>This chapter uses Pi as one example of a coding conversation workspace. The approach applies to any AI coding assistant; adapt the tool-specific details to the agent you use.</p>
+</div>
+
 Start with a narrow task and state whether you want an explanation, a plan, a review, or a change proposal.
 
 <div class="prompt-box">
